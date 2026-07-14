@@ -1,0 +1,17 @@
+HTML: /mnt/data/stalker-pda-v1.0.6-work/package/source/android-project/android/apktool-app/assets/www/index.html
+Размер: 347034 байт
+ID: 96; дубликаты: нет
+byId-ссылок: 85; отсутствуют: нет
+Внешние runtime-ресурсы: нет
+JS блок 1: OK 
+JS блок 2: OK 
+JS блок 3: OK 
+\beval\s*\(: нет
+new\s+Function\s*\(: нет
+\.innerHTML\s*=: нет
+\.outerHTML\s*=: нет
+document\.write\s*\(: нет
+console\.log\s*\(: нет
+\bdebugger\b: нет
+\bTODO\b: нет
+\bFIXME\b: нет

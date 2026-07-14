@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "stats": {
+    "files": 7,
+    "classes": 7,
+    "methods": 38,
+    "handlers": 6,
+    "instructions": 614
+  },
+  "errors": [],
+  "warnings": []
+}

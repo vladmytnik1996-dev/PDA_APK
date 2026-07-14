@@ -1,0 +1,2 @@
+2640448f172170afec1be7be24eb62316337df2a325675573abc330d8276e905  /mnt/data/stalker-pda-app-release-fixed-v5.apk
+ab56a4b570ffd010c7e5e77133674b9fb9191705d5317b9c8bf294f7f5bfbae2  /mnt/data/stalker-pda-app-debug-fixed-v5.apk

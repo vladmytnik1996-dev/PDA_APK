@@ -1,0 +1,38 @@
+{
+  "html": "/mnt/data/stalker-pda-v1.0.6-work/package/source/android-project/android/apktool-app/assets/www/index.html",
+  "bytes": 347034,
+  "ids": 96,
+  "duplicate_ids": [],
+  "byId_refs": 85,
+  "missing_byId_refs": [],
+  "external_runtime_resources": [],
+  "inline_scripts": [
+    {
+      "script": 1,
+      "ok": true,
+      "stderr": ""
+    },
+    {
+      "script": 2,
+      "ok": true,
+      "stderr": ""
+    },
+    {
+      "script": 3,
+      "ok": true,
+      "stderr": ""
+    }
+  ],
+  "forbidden_patterns": {
+    "\\beval\\s*\\(": false,
+    "new\\s+Function\\s*\\(": false,
+    "\\.innerHTML\\s*=": false,
+    "\\.outerHTML\\s*=": false,
+    "document\\.write\\s*\\(": false,
+    "console\\.log\\s*\\(": false,
+    "\\bdebugger\\b": false,
+    "\\bTODO\\b": false,
+    "\\bFIXME\\b": false
+  },
+  "start_data_count": null
+}

@@ -1,0 +1,5 @@
+VERIFIED=true
+V1=false
+V2=true
+SUBJECT=CN=STALKER PDA Release, OU=Mobile, O=Zone PDA, L=Smorgon, ST=Grodno, C=BY
+CERT_SHA256=0a074d7b8056f33660d2ad168f5771edff8eb132193689dbfc944dd989ee6ee6
