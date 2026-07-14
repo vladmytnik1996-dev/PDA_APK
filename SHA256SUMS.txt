@@ -1,0 +1,5 @@
+8dcda635f8f0607ac29f3af754ea9a03cf26a7b0c734a1e333203baa10ff48f0  apk/stalker-pda-v1.0.5-release.apk
+cb520236a055c398a0aa6de6269288c82a67624cebc7a4495cc3ce694fa6574d  source/web-app/index.html
+01e8efa57d7d8c4a5bf385131b79976a9f00bd78e5047503cc3c0c0d6d0fb30c  source/web-app/original-single-file.html
+691bc0991e3e3d7e57ad90db2ffbe44a7a30dafa96a04bee2bea7256086faf13  README.md
+bb6031845d512fa7c1ed1c619cbd9f154d20762cb9dfd88c92ef127d2bc4e369  docs/USER_GUIDE.html
